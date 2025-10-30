@@ -1,0 +1,5 @@
+{
+  "name": "Order Tracking Platform",
+  "description": "A web application for sales agents to track daily new and old order statuses, including confirmed, canceled, and unanswered orders, with reasons and solutions. It allows viewing historical data by date.",
+  "requestFramePermissions": []
+}
